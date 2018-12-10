@@ -1,1 +1,1 @@
-# Word-Censor
+# RGB-Game
